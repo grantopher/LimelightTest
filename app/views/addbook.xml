@@ -1,0 +1,10 @@
+<!-- Add book panel for adding books to the database -->
+<Alloy>
+	<Window class="container">
+		<View layout="vertical">
+			<TextField id="titleInput" hintText="Title..."></TextField>
+			<TextField id="authorInput" hintText="Author..."></TextField>
+			<Button id="insertBookButton" onClick="addBook">Add</Button>
+		</View>
+	</Window>
+</Alloy>

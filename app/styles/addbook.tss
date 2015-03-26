@@ -1,0 +1,25 @@
+
+".container" : {
+  backgroundColor: "white"
+}
+// Author and Title input form formatting 
+"#titleInput" : {
+	color: '#000000',
+	width: '50%',
+	font: {
+		fontSize: '30'
+	}
+}
+"#authorInput": {
+	color: '#000000',
+	width: '50%',
+	font: {
+		fontSize: '30'
+	}
+}
+"button" : {
+	color: '#000000',
+	font: {
+		fontSize: '25'
+	}
+}

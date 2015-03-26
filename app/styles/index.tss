@@ -1,0 +1,11 @@
+".container": {
+	backgroundColor:'white'
+}
+//Book listing formatting
+"TableViewRow": {
+	font: {
+		fontSize: '24'
+	},
+	height: '60',
+	color: '#000000',
+}
